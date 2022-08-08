@@ -1,6 +1,29 @@
-# simon_game
+# Simon Game
 
-It is very interesting game and beginne's friendly to revise the concepts of web-devlopment.
-I have created it by using html, css and javaScript with lots of fun.
 
-here is my-game: https://candy-6646.github.io/simon_game/
+<h3>How to play</h3>
+<ul>
+  <li>Simon game is a game of memory skill.</li>
+  <li>Press any key to start the game.</li>
+  <li>After starting the game, see the tiles.</li>
+  <li>Remember the sequence of tiles in which order they glow.</li>
+  <li>If your order is correct you will get 10 points.</li>
+ </ul>
+ 
+ 
+ 
+ <h3>How it's build</h3>
+ <ul>
+  <li>It's a pure <b>javascript</b> game.</li>
+  <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
+  <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
+  <li>Just play. Have fun. Enjoy the game</li>
+  </ul>
+ 
+ 
+ <h3>Screenshots</h3>
+ <p align="center">
+  <img src="/screenshots/s1.png" width="350" title="hover text" alt="s1">
+  <img src="/screenshots/s2.png" width="350" title="hover text" alt="s2">
+  <img src="/screenshots/s3.png" width="350" title="hover text" alt="s3">
+ </p>
