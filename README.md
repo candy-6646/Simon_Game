@@ -1,6 +1,17 @@
 # Simon Game
 
 
+
+<h3>How it's build</h3>
+ <ul>
+  <li>It's a pure <b>Javascript</b> game.</li>
+  <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
+  <li>Maked game interactive by adding animations using <b>Jquery</b>.</li>
+  <li>Link <a href="https://candy-6646.github.io/Simon_Game/">Simon Game</a></li>
+  <li>Just play. Have fun. Enjoy the game</li>
+ </ul>
+ 
+
 <h3>How to play</h3>
 <ul>
   <li>Simon game is a game of memory skill.</li>
@@ -9,17 +20,6 @@
   <li>Remember the sequence of tiles in which order they glow.</li>
   <li>If your order is correct you will get 10 points.</li>
  </ul>
- 
- 
- 
- <h3>How it's build</h3>
- <ul>
-  <li>It's a pure <b>javascript</b> game.</li>
-  <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
-  <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
-  <li>Link <a href="https://candy-6646.github.io/Simon_Game/">Simon Game</a></li>
-  <li>Just play. Have fun. Enjoy the game</li>
-  </ul>
  
  
  <h3>Screenshots</h3>
