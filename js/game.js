@@ -79,8 +79,7 @@ function checkAnswer(currentLevel){
         }, 1000);
     }
   }else{
-    var audio = new Audio("sounds/wrong.mp3");
-    audio.play();
+    playSound('wrong');
     $("body").addClass( "game-over" );
     setTimeout(function(){
         $("body").removeClass("game-over");
@@ -148,6 +147,7 @@ let modalTitle = $('.modal-title');
 let closeModalBtn = $('#close-modal');
 
 $('#rules').click(() => {
+  playSound('flip');
   document.querySelector('.modal').style.visibility = 'visible';
   modalDataCont.innerHTML = '';
   let ul = document.createElement('ul');
@@ -164,6 +164,7 @@ $('#rules').click(() => {
 
 
 $('#hscore').click(() => {
+  playSound('flip');
   document.querySelector('.modal').style.visibility = 'visible';
   modalDataCont.innerHTML = '';
   let table = document.createElement('table');
@@ -193,5 +194,6 @@ $('#hscore').click(() => {
 function makeCloseModalActive() {
   closeModalBtn.click(() => {
     document.querySelector('.modal').style.visibility = 'hidden';
+    playSound('flip');
   });
 }
