@@ -17,13 +17,15 @@
   <li>It's a pure <b>javascript</b> game.</li>
   <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
   <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
+  <li>Link <a href="https://candy-6646.github.io/Simon_Game/">Simon Game</a></li>
   <li>Just play. Have fun. Enjoy the game</li>
   </ul>
  
  
  <h3>Screenshots</h3>
  <p align="center">
-  <img src="/screenshots/s1.png" width="350" title="hover text" alt="s1">
-  <img src="/screenshots/s2.png" width="350" title="hover text" alt="s2">
-  <img src="/screenshots/s3.png" width="350" title="hover text" alt="s3">
+  <img src="/images/s1.png" width="350" title="hover text" alt="s1">
+  <img src="/images/s2.png" width="350" title="hover text" alt="s2">
+  <img src="/images/s3.png" width="350" title="hover text" alt="s3">
  </p>
+ 
