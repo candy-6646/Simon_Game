@@ -7,7 +7,7 @@
   <li>It's a pure <b>Javascript</b> game.</li>
   <li>UI is created using <b>HTML</b> and <b>CSS</b>.</li>
   <li>Maked game interactive by adding animations using <b>Jquery</b>.</li>
-  <li>Link <a href="https://candy-6646.github.io/Simon_Game/">Simon Game</a></li>
+  <li>Link <a href="https://kundan-6646.github.io/Simon_Game/">Simon Game</a></li>
   <li>Just play. Have fun. Enjoy the game</li>
  </ul>
  
